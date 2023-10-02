@@ -12,4 +12,5 @@ Metric converter adalah aplikasi untuk mengubah nilai sebuah besaran tertentu da
 Link APK : <a href="https://drive.google.com/file/d/18rZRy0Fv8FqkmelXrrrvEowyN9UCO61j/view?usp=sharing">https://drive.google.com/file/d/18rZRy0Fv8FqkmelXrrrvEowyN9UCO61j/view?usp=sharing</a>
 
 Demo Aplikasi (GIF) : </br>
-![Uploading WhatsApp-Video-2023-10-02-at-11.20.30.gif…]()
+![WhatsApp-Video-2023-10-02-at-11 20 30](https://github.com/rizallk/metric-converter-rizal-ANDROID-STUDIO/assets/46246652/387b14ef-8a42-4a30-9a3e-2590129c6c56)
+
